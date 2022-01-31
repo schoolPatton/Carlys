@@ -12,7 +12,7 @@ public class CarlysEventPrice {
     double RATE_PER_PERSON = 35;
 
 
-
+    //This method gets the input for the program
     private int Get_Input()
     {
         Scanner sc= new Scanner(System.in);    //System.in is a standard input stream
